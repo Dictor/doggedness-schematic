@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Doggedness (Chiljeonpalgi) ECU board")
+    (rev "1")
+  )
+
   (lib_symbols
     (symbol "74LVC2G241DCT:74LVC2G241DCTRE4" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 27.94 10.16 0)
